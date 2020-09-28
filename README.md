@@ -1,4 +1,7 @@
-Run `bash run_server.sh`
-Press enter until it says "Listening"
-In new terminal window, run `bash run_client.sh`
-In server terminal, received "test" input should be displayed
+1. Run `bash run_server.sh`
+
+2. Press enter until it says "Listening"
+
+3. In new terminal window, run `bash run_client.sh`
+
+4. In first (server) terminal, received "test" should be displayed
